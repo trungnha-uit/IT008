@@ -116,8 +116,8 @@ namespace BTTH1_BT6 {
         }
         //Tim dong co tong lon nhat
         public int find_Row() {
-            int res = 0;
-            int sum = 0;
+            int res = sum_Row(matrix[0]);
+            int sum = res;
             for(int i = 0; i < rows; ++i) {
                 int tmp = sum_Row(matrix[i]);
                 if(sum < tmp) {

@@ -11,7 +11,7 @@ namespace BTTH1_BT2 {
             int x;
             try {
                 x = int.Parse(Console.ReadLine());
-                if (x != -1 && x < 0)
+                if (x != -1 && x <= 0)
                     throw new ArgumentOutOfRangeException("Phai la so duong");
             }catch(Exception e) {
                 Console.WriteLine(e.Message);

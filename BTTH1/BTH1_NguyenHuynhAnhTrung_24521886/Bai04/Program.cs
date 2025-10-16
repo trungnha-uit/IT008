@@ -35,7 +35,7 @@ namespace BTTH1_BT4 {
 
         //Ngay trong thang
         public static int return_day(int thang, int nam) {
-            if (thang < 1 || thang > 12) {
+            if (thang < 1 || thang > 12 || nam < 1) {
                 Console.WriteLine("Khong hop le");
                 throw new Exception("Thang khong hop le");
             }

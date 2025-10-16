@@ -35,7 +35,7 @@ namespace BTTH1_BT5 {
 
         //Kiem tra thoi gian hop le
         public static bool check_valid(int ngay, int thang, int nam) {
-            if (ngay < 1 || thang < 1 || thang > 12)
+            if (ngay < 1 || thang < 1 || thang > 12 || nam < 1)
                 return false;
             int leap = 0;
             if (thang == 2 && check_leap_year(nam) == true) {
