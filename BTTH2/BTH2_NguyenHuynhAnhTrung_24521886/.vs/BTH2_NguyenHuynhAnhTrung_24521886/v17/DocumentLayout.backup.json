@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Study\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\",
+  "WorkspaceRootPath": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|d:\\study\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\git_it008\\btth2\\bth2_nguyenhuynhanhtrung_24521886\\bth2\\bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|solutionrelative:bth2\\bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth2\\bth2_nguyenhuynhanhtrung_24521886\\bth2\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|solutionrelative:bth2\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|d:\\study\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\git_it008\\btth2\\bth2_nguyenhuynhanhtrung_24521886\\bth2\\bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth2\\bth2_nguyenhuynhanhtrung_24521886\\bth2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|solutionrelative:bth2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth2\\bth2_nguyenhuynhanhtrung_24521886\\bth2\\bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|solutionrelative:bth2\\bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth2\\bth2_nguyenhuynhanhtrung_24521886\\bth2\\bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|solutionrelative:bth2\\bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth2\\bth2_nguyenhuynhanhtrung_24521886\\bth2\\bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|solutionrelative:bth2\\bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|d:\\study\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\git_it008\\btth2\\bth2_nguyenhuynhanhtrung_24521886\\bth2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|solutionrelative:bth2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth2\\bth2_nguyenhuynhanhtrung_24521886\\bth2\\bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4B3751-5F26-4067-A764-B9522830B4FA}|BTH2\\BTH2.csproj|solutionrelative:bth2\\bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bai02.cs",
-              "DocumentMoniker": "D:\\Study\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai02.cs",
-              "RelativeDocumentMoniker": "BTH2\\Bai02.cs",
-              "ToolTip": "D:\\Study\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai02.cs*",
-              "RelativeToolTip": "BTH2\\Bai02.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T02:56:18.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Study\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Program.cs",
-              "RelativeDocumentMoniker": "BTH2\\Program.cs",
-              "ToolTip": "D:\\Study\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Program.cs",
-              "RelativeToolTip": "BTH2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T02:57:43.938Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -64,15 +50,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bai01.cs",
-              "DocumentMoniker": "D:\\Study\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai01.cs",
-              "RelativeDocumentMoniker": "BTH2\\Bai01.cs",
-              "ToolTip": "D:\\Study\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai01.cs",
-              "RelativeToolTip": "BTH2\\Bai01.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Bai03.cs",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai03.cs",
+              "RelativeDocumentMoniker": "BTH2\\Bai03.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai03.cs",
+              "RelativeToolTip": "BTH2\\Bai03.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAIwJwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T02:55:50.619Z",
+              "WhenOpened": "2025-10-28T02:16:42.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai02.cs",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai02.cs",
+              "RelativeDocumentMoniker": "BTH2\\Bai02.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai02.cs",
+              "RelativeToolTip": "BTH2\\Bai02.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwD0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:21:03.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai01.cs",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai01.cs",
+              "RelativeDocumentMoniker": "BTH2\\Bai01.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai01.cs",
+              "RelativeToolTip": "BTH2\\Bai01.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwB8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:04:32.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai05.cs",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai05.cs",
+              "RelativeDocumentMoniker": "BTH2\\Bai05.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai05.cs",
+              "RelativeToolTip": "BTH2\\Bai05.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAADwv+wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T04:04:49.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai04.cs",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai04.cs",
+              "RelativeDocumentMoniker": "BTH2\\Bai04.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Bai04.cs",
+              "RelativeToolTip": "BTH2\\Bai04.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAiwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T02:44:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Program.cs",
+              "RelativeDocumentMoniker": "BTH2\\Program.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH2\\BTH2_NguyenHuynhAnhTrung_24521886\\BTH2\\Program.cs",
+              "RelativeToolTip": "BTH2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T03:32:40.543Z",
               "EditorCaption": ""
             }
           ]
