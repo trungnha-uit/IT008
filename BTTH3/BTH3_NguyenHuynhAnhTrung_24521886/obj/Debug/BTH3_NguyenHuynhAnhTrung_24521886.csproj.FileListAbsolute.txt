@@ -1,0 +1,14 @@
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\bin\Debug\BTH3_NguyenHuynhAnhTrung_24521886.exe.config
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\bin\Debug\BTH3_NguyenHuynhAnhTrung_24521886.exe
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\bin\Debug\BTH3_NguyenHuynhAnhTrung_24521886.pdb
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\obj\Debug\BTH3_NguyenHuynhAnhTrung_24521886.csproj.AssemblyReference.cache
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\obj\Debug\BTH3_NguyenHuynhAnhTrung_24521886.csproj.GenerateResource.cache
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\obj\Debug\BTH3_NguyenHuynhAnhTrung_24521886.csproj.CoreCompileInputs.cache
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\obj\Debug\BTH3_NguyenHuynhAnhTrung_24521886.exe
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\obj\Debug\BTH3_NguyenHuynhAnhTrung_24521886.pdb
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\obj\Debug\BTH3_NguyenHuynhAnhTrung_24521886.exe.config
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\obj\Debug\BTTH3.Bai03.resources
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\obj\Debug\BTTH3.Bai04.resources
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\obj\Debug\BTTH3.Bai05.resources
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\obj\Debug\BTTH3.MainForm.resources
+D:\Study\Lap_Trinh_Truc_Quan\GIT_IT008\BTTH3\BTH3_NguyenHuynhAnhTrung_24521886\obj\Debug\BTTH3.Properties.Resources.resources
