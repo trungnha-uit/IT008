@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth4\\bth4_24521886_nguyenhuynhanhtrung\\btth4\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\btth4\\bai06.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai06.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth4\\bth4_24521886_nguyenhuynhanhtrung\\btth4\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth4\\bth4_24521886_nguyenhuynhanhtrung\\btth4\\bai05.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai05.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\btth4\\bai06.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai06.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth4\\bth4_24521886_nguyenhuynhanhtrung\\btth4\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\btth4\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Bai05.cs",
               "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai05.cs",
               "RelativeDocumentMoniker": "BTTH4\\Bai05.cs",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Bai05.cs [Design]",
               "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai05.cs",
               "RelativeDocumentMoniker": "BTTH4\\Bai05.cs",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Bai05.Designer.cs",
               "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai05.Designer.cs",
               "RelativeDocumentMoniker": "BTTH4\\Bai05.Designer.cs",
@@ -96,26 +96,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Bai06.Designer.cs",
               "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai06.Designer.cs",
               "RelativeDocumentMoniker": "BTTH4\\Bai06.Designer.cs",
               "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai06.Designer.cs",
               "RelativeToolTip": "BTTH4\\Bai06.Designer.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAIAwwLsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAALAAAAAAAAAAAAAwwNoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T05:07:59.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Bai06.cs",
               "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai06.cs",
               "RelativeDocumentMoniker": "BTTH4\\Bai06.cs",
               "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai06.cs",
               "RelativeToolTip": "BTTH4\\Bai06.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowGYAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAowIoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T04:43:56.82Z",
               "EditorCaption": ""
