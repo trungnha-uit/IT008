@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth4\\bth4_24521886_nguyenhuynhanhtrung\\btth4\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\btth4\\bai06.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai06.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth4\\bth4_24521886_nguyenhuynhanhtrung\\btth4\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth4\\bth4_24521886_nguyenhuynhanhtrung\\btth4\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|d:\\study\\lap_trinh_truc_quan\\git_it008\\btth4\\bth4_24521886_nguyenhuynhanhtrung\\btth4\\bai05.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai05.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\btth4\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\btth4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\btth4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4C96BA8-A049-4303-A6CF-F0E60B5ABCFF}|BTTH4\\BTTH4.csproj|solutionrelative:btth4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai05.cs",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai05.cs",
+              "RelativeDocumentMoniker": "BTTH4\\Bai05.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai05.cs",
+              "RelativeToolTip": "BTTH4\\Bai05.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:03:34.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai05.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai05.cs",
+              "RelativeDocumentMoniker": "BTTH4\\Bai05.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai05.cs [Design]",
+              "RelativeToolTip": "BTTH4\\Bai05.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:03:33.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai05.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai05.Designer.cs",
+              "RelativeDocumentMoniker": "BTTH4\\Bai05.Designer.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai05.Designer.cs",
+              "RelativeToolTip": "BTTH4\\Bai05.Designer.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAwwO8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:02:19.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai06.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai06.Designer.cs",
+              "RelativeDocumentMoniker": "BTTH4\\Bai06.Designer.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai06.Designer.cs",
+              "RelativeToolTip": "BTTH4\\Bai06.Designer.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAwwNoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T05:07:59.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai06.cs",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai06.cs",
+              "RelativeDocumentMoniker": "BTTH4\\Bai06.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai06.cs",
+              "RelativeToolTip": "BTTH4\\Bai06.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAowIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:43:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai06.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai06.cs",
+              "RelativeDocumentMoniker": "BTTH4\\Bai06.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\Bai06.cs [Design]",
+              "RelativeToolTip": "BTTH4\\Bai06.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:35:41.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\MainForm.cs",
+              "RelativeDocumentMoniker": "BTTH4\\MainForm.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\MainForm.cs",
+              "RelativeToolTip": "BTTH4\\MainForm.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:43:33.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\MainForm.cs",
+              "RelativeDocumentMoniker": "BTTH4\\MainForm.cs",
+              "ToolTip": "D:\\Study\\Lap_Trinh_Truc_Quan\\GIT_IT008\\BTTH4\\BTH4_24521886_NguyenHuynhAnhTrung\\BTTH4\\MainForm.cs [Design]",
+              "RelativeToolTip": "BTTH4\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:35:21.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
